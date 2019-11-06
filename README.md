@@ -19,3 +19,5 @@ Reads the JSON file, returns a buffer.
 Writes a buffer into a JSON file.
 
 ### Description of Process:
+### run
+`node.js file`
