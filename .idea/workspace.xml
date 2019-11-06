@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c7784ac-5e45-42f2-9831-232de64b9f73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintignore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file-events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__mocks__/app.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/__mocks__/app.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/event.js" beforeDir="false" afterPath="$PROJECT_DIR$/eventEmitter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/read.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/write.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventEmitter.js" beforeDir="false" afterPath="$PROJECT_DIR$/eventEmitter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572993909785</updated>
       <workItem from="1572993912757" duration="7186000" />
-      <workItem from="1573060293018" duration="4878000" />
+      <workItem from="1573060293018" duration="5342000" />
     </task>
     <servers />
   </component>
